@@ -1,0 +1,3 @@
+export const SAVE_IMAGES= 'SAVE_IMAGES'
+export const RESET_IMAGES= 'RESET_IMAGES'
+export const SAVE_AUTH_CODE= 'SAVE_AUTH_CODE'
